@@ -192,30 +192,6 @@ Average Trip Distance = AVERAGE(Trip[Trip Distance])
 
 ---
 
-# Project Folder Structure
-
-```bash
-uber-trip-analysis-powerbi/
-│
-├── Dashboard/
-│   └── Uber_Trip_Analysis.pbix
-│
-├── Dataset/
-│   └── uber_trip_data.xlsx
-│
-├── Screenshots/
-│   ├── overview-analysis.png
-│   ├── time-analysis.png
-│   └── details-page.png
-│
-├── Report/
-│   └── Final_Project_Report.pdf
-│
-└── README.md
-```
-
----
-
 # Conclusion
 
 The Uber Trip Analysis Dashboard successfully transforms raw trip data into interactive business insights using Power BI. The project demonstrates skills in data analytics, business intelligence, dashboard design, data modeling, DAX calculations, and data visualization.
