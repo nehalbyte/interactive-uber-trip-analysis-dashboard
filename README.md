@@ -177,15 +177,18 @@ Average Trip Distance = AVERAGE(Trip[Trip Distance])
 
 ## Overview Dashboard
 
-(Add Overview Dashboard Screenshot Here)
+<img width="1423" height="785" alt="image" src="https://github.com/user-attachments/assets/2728bbd6-5418-4cfe-9f59-65627f211b37" />
+
 
 ## Time Analysis Dashboard
 
-(Add Time Analysis Screenshot Here)
+<img width="1422" height="792" alt="image" src="https://github.com/user-attachments/assets/879ae96e-e681-44ef-8ee2-9de43c80986d" />
+
 
 ## Details Dashboard
 
-(Add Details Dashboard Screenshot Here)
+<img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/87b1dcc9-efab-4df9-8791-629934440361" />
+
 
 ---
 
